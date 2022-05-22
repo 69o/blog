@@ -1,0 +1,29 @@
+
+{
+    "name": "69o",
+    "repo": "blog",
+    "client_id": "67b6ccc1a2875e420c25",
+    "client_secret": "9b0a4d35610f903662f7ae2c6541d12f4bb77de0",
+    "title": "blog",
+    "instruction": "个人博客",
+    "server_link": "http://119.23.8.25/gh-oauth-server.php",
+    "filter": {
+        "creator": "all",
+        "state": "open"
+    },
+    "menu": {
+        "首页":"./"
+    },
+    "friends": {
+        "imuncle" : "https://imuncle.github.io"
+    },
+    "icons": {
+        "Github" : {
+            "icon_src" : "images/github.svg",
+            "href" : "https://github.com/69o/blog",
+            "hidden_img" : null,
+            "width" : 0
+        }
+    }
+
+}
